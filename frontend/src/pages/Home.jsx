@@ -32,9 +32,8 @@ const Home = () => {
                   <span className='highlight'>memories</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ratione explicabo perferendis omnis? Consequuntur quae dolorem, suscipit, sed sapiente accusamus eos necessitatibus dolore quasi beatae, repellat velit veniam ipsam soluta!
-                </p>
-              </div>
+                 Welcome to Travel World, your gateway to unforgettable journeys and extraordinary adventures. Discover breathtaking destinations, handpicked travel tips, and curated experiences that make every trip unique. Whether you’re seeking a serene escape or an adrenaline-packed adventure, we have something for every wanderer. Let us guide you in creating memories that last a lifetime. Your next great adventure starts here!
+               </p>
             </Col>
             <Col lg="2">
               <div className='hero__img-box'>
