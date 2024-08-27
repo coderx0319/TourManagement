@@ -34,6 +34,7 @@ const Home = () => {
                 <p>
                  Welcome to Travel World, your gateway to unforgettable journeys and extraordinary adventures. Discover breathtaking destinations, handpicked travel tips, and curated experiences that make every trip unique. Whether you’re seeking a serene escape or an adrenaline-packed adventure, we have something for every wanderer. Let us guide you in creating memories that last a lifetime. Your next great adventure starts here!
                </p>
+             </div>
             </Col>
             <Col lg="2">
               <div className='hero__img-box'>
